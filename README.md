@@ -5,6 +5,4 @@ The PayrollSystem class manages a list of employees, allowing adding, removing, 
 
 Key features:
 
-> Abstract class with concrete implementations for salary calculation
-> Dynamic employee management (add/remove)
-> Polymorphism in handling different employee types
+Abstract class with concrete implementations for salary calculation, Dynamic employee management (add/remove) and Polymorphism in handling different employee types.
